@@ -1,7 +1,7 @@
-# ⚙️ Scripts
+# ⚙️ Automation Scripts
 
-Shell scripts used to automate tasks in the Proxmox lab.
+Reusable shell scripts for the lab setup and maintenance.
 
-- backups/
-- users/
-- system/
+- `backups/`: Backup-related automation (config or full VM)
+- `users/`: Admin creation, SSH key installation
+- `system/`: Update, package install, headers
